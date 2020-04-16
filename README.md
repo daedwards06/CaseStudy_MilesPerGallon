@@ -1,1 +1,3 @@
-# CaseStudy_MilesPerGallon
+# Case Study MilesPerGallon
+
+For this case study, we will be looking at the mileage data for 38 cars that were measured in 2005 to estimate miles per gallon. The variables for the dataset include Cylinders (number of cylinders), Size (engine displacement), HP (horsepower), and weight of the car (car weight). However, this dataset is missing values on numerous variables of the 38 records that it contains. In order to acquire a more complete dataset and therefore a more powerful analysis in theory, we will be using multiple imputations to explore this study
